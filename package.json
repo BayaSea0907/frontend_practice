@@ -1,0 +1,11 @@
+{
+  "name": "frontend_practice",
+  "version": "1.0.0",
+  "description": "フロントエンドの勉強用のリポジトリ",
+  "main": "index.js",
+  "repository": "https://github.com/BayaSea0907/frontend_practice.git",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^28.1.1"
+  }
+}
